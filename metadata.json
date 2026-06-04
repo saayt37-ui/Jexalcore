@@ -1,0 +1,6 @@
+{
+  "name": "ShopKeeper",
+  "description": "Store inventory tracking, automatic low-stock alerts, and sales data logging for modern shop owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
